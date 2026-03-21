@@ -1,6 +1,6 @@
 package com.bookvault.bookvault.controller;
 
-import com.bookvault.bookvault.config.ApiResponse;
+import com.bookvault.bookvault.dto.ApiResponse;
 import com.bookvault.bookvault.model.Member;
 import com.bookvault.bookvault.repo.MemberRepo;
 import com.bookvault.bookvault.service.MemberService;

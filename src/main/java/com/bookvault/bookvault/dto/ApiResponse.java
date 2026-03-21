@@ -1,4 +1,4 @@
-package com.bookvault.bookvault.config;
+package com.bookvault.bookvault.dto;
 
 
 import lombok.AllArgsConstructor;

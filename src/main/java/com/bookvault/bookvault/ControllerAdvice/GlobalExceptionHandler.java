@@ -1,11 +1,9 @@
 package com.bookvault.bookvault.ControllerAdvice;
 
 
-import com.bookvault.bookvault.config.ApiResponse;
+import com.bookvault.bookvault.dto.ApiResponse;
 import com.bookvault.bookvault.exp.BadRequestException;
 import com.bookvault.bookvault.exp.ResourceNotFoundException;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

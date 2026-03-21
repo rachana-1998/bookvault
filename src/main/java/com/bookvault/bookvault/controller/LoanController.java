@@ -1,7 +1,7 @@
 package com.bookvault.bookvault.controller;
 
 
-import com.bookvault.bookvault.config.ApiResponse;
+import com.bookvault.bookvault.dto.ApiResponse;
 import com.bookvault.bookvault.model.Loan;
 import com.bookvault.bookvault.service.LoanService;
 import org.apache.coyote.BadRequestException;
